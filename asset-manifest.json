@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lightbox-gallery/static/css/main.92b83737.css",
+    "main.js": "/lightbox-gallery/static/js/main.31a52b4b.js",
+    "static/js/453.939df84c.chunk.js": "/lightbox-gallery/static/js/453.939df84c.chunk.js",
+    "static/media/img1.jpg": "/lightbox-gallery/static/media/img1.cccd09c3af28f986a42f.jpg",
+    "static/media/img3.jpg": "/lightbox-gallery/static/media/img3.03a8b08fdfeb45b37624.jpg",
+    "static/media/img4.jpg": "/lightbox-gallery/static/media/img4.045eb9a394510973b6df.jpg",
+    "static/media/img5.jpg": "/lightbox-gallery/static/media/img5.f7bfd09c5d104e3862d9.jpg",
+    "static/media/img2.jpg": "/lightbox-gallery/static/media/img2.4e4d90d1375c872b5171.jpg",
+    "static/media/img6.jpg": "/lightbox-gallery/static/media/img6.6084251cdcfdaecc814d.jpg",
+    "index.html": "/lightbox-gallery/index.html",
+    "main.92b83737.css.map": "/lightbox-gallery/static/css/main.92b83737.css.map",
+    "main.31a52b4b.js.map": "/lightbox-gallery/static/js/main.31a52b4b.js.map",
+    "453.939df84c.chunk.js.map": "/lightbox-gallery/static/js/453.939df84c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92b83737.css",
+    "static/js/main.31a52b4b.js"
+  ]
+}
